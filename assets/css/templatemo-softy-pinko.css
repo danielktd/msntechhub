@@ -1511,7 +1511,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: ;
+  background-image:black ;
   left: 0;
   right: 0;
   top: 0;
