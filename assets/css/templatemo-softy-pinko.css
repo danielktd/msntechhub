@@ -644,7 +644,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../images/m.gif);
+  background-image: url(../images/banner-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover; 
@@ -1511,7 +1511,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(135deg, #a759d1 0%, #8261ee 100%);
+  background-image: url(../images/m.gif);
   left: 0;
   right: 0;
   top: 0;
